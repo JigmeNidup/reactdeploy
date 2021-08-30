@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JigmeNidup/reactdeploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/JigmeNidup/reactdeploy/static/js/main.3511b416.chunk.js",
+    "main.js.map": "/JigmeNidup/reactdeploy/static/js/main.3511b416.chunk.js.map",
+    "runtime-main.js": "/JigmeNidup/reactdeploy/static/js/runtime-main.7a2a56ff.js",
+    "runtime-main.js.map": "/JigmeNidup/reactdeploy/static/js/runtime-main.7a2a56ff.js.map",
+    "static/js/2.3453697a.chunk.js": "/JigmeNidup/reactdeploy/static/js/2.3453697a.chunk.js",
+    "static/js/2.3453697a.chunk.js.map": "/JigmeNidup/reactdeploy/static/js/2.3453697a.chunk.js.map",
+    "static/js/3.232bb226.chunk.js": "/JigmeNidup/reactdeploy/static/js/3.232bb226.chunk.js",
+    "static/js/3.232bb226.chunk.js.map": "/JigmeNidup/reactdeploy/static/js/3.232bb226.chunk.js.map",
+    "index.html": "/JigmeNidup/reactdeploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/JigmeNidup/reactdeploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3453697a.chunk.js.LICENSE.txt": "/JigmeNidup/reactdeploy/static/js/2.3453697a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JigmeNidup/reactdeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2a56ff.js",
+    "static/js/2.3453697a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3511b416.chunk.js"
+  ]
+}
